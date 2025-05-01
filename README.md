@@ -8,6 +8,8 @@
 
 This tool uses OpenAI's GPT-4o model to perform OCR (Optical Character Recognition) on PDF files and convert the extracted content to Markdown format. It preserves the document structure including headings, paragraphs, lists, and tables.
 
+Inspired by [mistral_ocr_pdf](https://github.com/reorx/mistral_ocr_pdf) project.
+
 ## Features
 
 - Extract text from PDF files using GPT-4o's advanced vision capabilities
