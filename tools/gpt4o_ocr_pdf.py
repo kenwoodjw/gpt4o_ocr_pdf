@@ -112,12 +112,11 @@ class Gpt4oOcrPdfTool(Tool):
                 
                 response = client.chat.completions.create(
                     model=model_name,  # Use the appropriate model name based on API type
+
                     messages=messages,
                     temperature=0.0,
                     max_tokens=4000
-                )
-                print(response)
-                
+                )                
                 # Extract markdown content from response
                 markdown_content = response.choices[0].message.content
                 
