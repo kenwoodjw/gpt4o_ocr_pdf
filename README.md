@@ -1,7 +1,7 @@
 # GPT-4o OCR PDF to Markdown Tool
 
 **Author:** kenwood  
-**Version:** 0.0.1  
+**Version:** 0.0.2  
 **Type:** Dify Plugin Tool
 
 ## Description
