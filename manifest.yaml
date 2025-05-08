@@ -3,15 +3,13 @@ type: plugin
 author: kenwood
 name: gpt4o_ocr_pdf
 label:
-  en_US: gpt4o_ocr_pdf
-  ja_JP: gpt4o_ocr_pdf
-  zh_Hans: gpt4o_ocr_pdf
-  pt_BR: gpt4o_ocr_pdf
+  en_US: GPT-4o PDF OCR to Markdown
+  ja_JP: PDFからテキスト抽出とMarkdown変換
+  zh_Hans: PDF文件OCR识别转Markdown格式
 description:
-  en_US: gpt4o ocr pdf to markdown
-  ja_JP: gpt4o ocr pdf to markdown
-  zh_Hans: gpt4o ocr pdf to markdown
-  pt_BR: gpt4o ocr pdf to markdown
+  en_US: Extract text from PDF files using GPT-4o's OCR capabilities and convert to well-formatted Markdown. Preserves document structure including headings, paragraphs, lists, and tables.
+  ja_JP: GPT-4o の OCR 機能を使用して PDF ファイルからテキストを抽出し、整形された Markdown に変換します。見出し、段落、リスト、表などの文書構造を保持します。
+  zh_Hans: 使用 GPT-4o 的 OCR 功能从 PDF 文件中提取文本并转换为格式良好的 Markdown。保留文档结构，包括标题、段落、列表和表格。
 icon: icon.svg
 resource:
   memory: 268435456
